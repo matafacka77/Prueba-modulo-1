@@ -1,3 +1,0 @@
-git add nombre archivo
-git comit "comentario commit"
-git push
