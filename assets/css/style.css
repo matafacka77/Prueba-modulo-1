@@ -25,7 +25,7 @@
 
 
 .header a:hover {
-  background-color: #ddd;
+  background-color: #ffffff;
   color: black;
 }
 
@@ -53,14 +53,14 @@
 }
 /* carrusel*/
 #carouselExampleFade{
-  height: 80vh;
-  width: 80vw;
+  height: 70vh;
+  width: 70vw;
 }
 
 .carousel-item{
   margin-left: 25%;
-  height: 100vh;
-  width: 100vw;
+  height: 70vh;
+  width: 70vw;
 }
 
 #carousel-01{
