@@ -1,14 +1,5 @@
 $(document).ready(function(){
-  $(window).scroll(function(){
-    var scroll=$(window).scrollTop();
-    var winHeight=$(window).height();
-    if (scroll > winHeight-130) {
-      $("nav").css("background-color", "rgba(231,191,222,1)");}
-      else{
-        $("nav").css("background-color", "rgba(231,191,222,0)");}
-      });
-
-      $(function () {
+        $(function () {
         $('[data-toggle="tooltip"]').tooltip()
       });
 
@@ -26,3 +17,5 @@ $(document).ready(function(){
           }
         });
       });
+
+    })
